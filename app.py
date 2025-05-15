@@ -1,2 +1,5 @@
 def naming():
+
+def hustling():
+    
     

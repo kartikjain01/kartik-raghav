@@ -1,2 +1,4 @@
 def gaimg():
+
+def naming():
     
