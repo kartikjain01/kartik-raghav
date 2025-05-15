@@ -7,7 +7,9 @@ def main():
 def PrintIng():
     print("")
 
-    
+
+def Naming():
+    print("KArtik")
 
 
 
